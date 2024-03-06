@@ -1,0 +1,4 @@
+.env
+storage/
+chat_log.txt
+mergersFirebaseAdminKey.json
